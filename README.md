@@ -41,7 +41,7 @@
   <h2> 💻Tech Stack </h2>
 </div> 
 
-<table align="center"><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="50%">
 
 
 
@@ -61,7 +61,7 @@
  
 
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -80,7 +80,7 @@
 
 <a href="https://hibernate.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hibernate_logo_a.png/1200px-Hibernate_logo_a.png" alt="Hibernate" height="50" /></a>  
  <br/>  
- 
+
  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
  
