@@ -66,12 +66,15 @@
 <div align="center">  
 
 <a href="https://www.java.com/en/" target="_blank"><img style="margin: 10px" src="https://static.javatpoint.com/core/images/java-logo1.png" alt="Java" height="50" /></a>  
+
+
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySql" height="50" /></a>  
 
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://image.pngaaa.com/546/2459546-middle.png" alt="SpringBoot" height="50" /></a>  
-<a href="https://hibernate.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hibernate_logo_a.png/1200px-Hibernate_logo_a.png" alt="Hibernate" height="50" /></a>  
- 
 
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://du0ulnyus7r80.cloudfront.net/wp-content/uploads/2020/02/spring-boot-logo-png-4-transparent.png" alt="SpringBoot" height="50" /></a>  
+
+
+<a href="https://hibernate.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hibernate_logo_a.png/1200px-Hibernate_logo_a.png" alt="Hibernate" height="50" /></a>  
  
  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
