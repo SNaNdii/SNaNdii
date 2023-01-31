@@ -1,7 +1,7 @@
 ### <div align="center">I'm Nandita Singh, a Java-Backend developer 👨‍💻 ready to work  🚀</div>  
 ###
 <div align="center">
-<img src="https://blog.gitguardian.com/content/images/2022/12/22WXX-thinking-like-hacker.png" align="center" style="width: 100% , height:200px  " />
+<img src="https://blog.gitguardian.com/content/images/2022/12/22WXX-thinking-like-hacker.png" align="center" style="width: 100% , height:150px  " />
 </div>  
 
 <div><p align="center"> <img style="margin:20px" src="https://komarev.com/ghpvc/?username=SNaNdii&label=Profile%20views&color=0e75b6&style=flat" alt="SNaNdii" /> </p>
