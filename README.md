@@ -21,12 +21,24 @@
 
  - <h4>⚡ Fun fact: I use tabs over spaces  </h4>
 
+
+- <h4> 👯 Exploring new technologies and developing programming insights. </h4>
+
+
+- <h4>✉️  You can shoot me an email at singhnandita73@gmail.com! I'll try to respond as soon as I can. </h4>
+
   
 
 <br/>  
 
 
-## My Skill Set  
+<div align="center">
+  
+<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+  <br>
+  <h2> 💻Tech Stack </h2>
+</div> 
+
 <table><tr><td valign="top" width="33%">
 
 
