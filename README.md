@@ -8,6 +8,8 @@
 
 <div><p align="center"> <img style="margin:20px" src="https://komarev.com/ghpvc/?username=SNaNdii&label=Profile%20views&color=0e75b6&style=flat" alt="SNaNdii" /> </p>
 
+
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=SNaNdii" alt="SNaNdii" /></a> </p></div>
   
   
@@ -44,15 +46,17 @@
 
 
 ### Frontend 
+<div align="center">
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
   <br/>  
+
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
   <br/>  
+
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
   <br/>  
   
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-  <br/> 
   <br/>  
 </div>
  
@@ -65,13 +69,13 @@
 ### Backend  
 <div align="center">  
 
-<a href="https://www.java.com/en/" target="_blank"><img style="margin: 10px" src="https://static.javatpoint.com/core/images/java-logo1.png" alt="Java" height="50" /></a>  
+<a href="https://www.java.com/en/" target="_blank"><img style="margin: 10px" src="https://static.javatpoint.com/core/images/java-logo1.png" alt="Java" height="60" /></a>  
 
 
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySql" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySql" height="70" /></a>  
 
 
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://du0ulnyus7r80.cloudfront.net/wp-content/uploads/2020/02/spring-boot-logo-png-4-transparent.png" alt="SpringBoot" height="50" /></a>  
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://du0ulnyus7r80.cloudfront.net/wp-content/uploads/2020/02/spring-boot-logo-png-4-transparent.png" alt="SpringBoot" height="70" /></a>  
 
 
 <a href="https://hibernate.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hibernate_logo_a.png/1200px-Hibernate_logo_a.png" alt="Hibernate" height="50" /></a>  
@@ -93,15 +97,19 @@
 <a href="https://github.com/SNaNdii" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://twitter.com/_s_nandita_" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://www.linkedin.com/in/singh-nandita/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://www.facebook.com/profile.php?id=100009405265197" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://www.instagram.com/nanndiii238/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
