@@ -1,4 +1,4 @@
-### <h3 align="center">I'm Nandita Singh, a Java-Backend developer 👨‍💻 ready to work  🚀</h3>  
+### <div align="center"> <h2> I'm Nandita Singh, a Java-Backend developer 👨‍💻 ready to work  🚀 </h2> </div>  
 ###
 <div align="center">
 <img src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png" align="center" style="width: 100% , height:150px  " />
