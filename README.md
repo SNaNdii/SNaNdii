@@ -1,7 +1,7 @@
-### <div align="center">I'm Nandita Singh, a Java-Backend developer 👨‍💻 ready to work  🚀</div>  
+### <h3 align="center">I'm Nandita Singh, a Java-Backend developer 👨‍💻 ready to work  🚀</h3>  
 ###
 <div align="center">
-<img src="https://blog.gitguardian.com/content/images/2022/12/22WXX-thinking-like-hacker.png" align="center" style="width: 100% , height:150px  " />
+<img src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png" align="center" style="width: 100% , height:150px  " />
 </div>  
 
 <div><p align="center"> <img style="margin:20px" src="https://komarev.com/ghpvc/?username=SNaNdii&label=Profile%20views&color=0e75b6&style=flat" alt="SNaNdii" /> </p>
@@ -11,13 +11,13 @@
   
   
 
-  - 🌱 I’m currently learning JAVA 
+  <h5> - 🌱 I’m currently learning JAVA </h5>
   
 
-- ❓ Ask me about anything related to JavaScript, Java Backend and related technologies  
+<h5> - ❓ Ask me about anything related to JavaScript, Java Backend and related technologies  </h5>
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+<h5> - ⚡ Fun fact: I use tabs over spaces  </h5>
 
   
 
