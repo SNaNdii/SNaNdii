@@ -11,13 +11,13 @@
   
   
 
-  <h5> - 🌱 I’m currently learning JAVA </h5>
+ - <h5> 🌱 I’m currently learning JAVA </h5>
   
 
-<h5> - ❓ Ask me about anything related to JavaScript, Java Backend and related technologies  </h5>
+ - <h5> ❓ Ask me about anything related to JavaScript, Java Backend and related technologies  </h5>
   
 
-<h5> - ⚡ Fun fact: I use tabs over spaces  </h5>
+ - <h5>⚡ Fun fact: I use tabs over spaces  </h5>
 
   
 
