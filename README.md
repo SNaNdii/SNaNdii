@@ -41,8 +41,7 @@
   <h2> 💻Tech Stack </h2>
 </div> 
 
-<table align="center"><tr><td valign="top">
-
+<div align="center" valign="top">
 
 
 ### Frontend 
@@ -59,7 +58,8 @@
  
 
 
-</td><td valign="top">
+</div>
+<div align="center" valign="top">
 
 
 
@@ -82,7 +82,7 @@
  
 </div>
 
-</td></tr></table>
+</div>
 
  
 
